@@ -26,42 +26,12 @@ I’m also a strong advocate for **AI and LLMs**, and I genuinely love exploring
 ## 💼 Experience Highlights
 
 ### 🔹 Ciena — Software Engineer Intern (QA)
-- Built a **Flask-based remote automation platform** for SSH-driven script execution on testbeds using **Paramiko**
-- Reduced upgrade validation time by **40%+**
-- Added dynamic form handling, real-time log streaming, router detection, package resolution, and multi-device orchestration
 
 ### 🔹 Solace — Software Engineer Intern
-- Automated a reporting pipeline using **Python, pandas, and openpyxl**
-- Generated structured Excel reports from REST APIs, saving **~3 hours/week**
-- Built a **Slack AI chatbot** using **Datadog API + OpenAI**
-- Contributed to TCL-based testing and Python 2 → Python 3 migration work
 
 ### 🔹 Nokia — Software Engineer Intern
-- Worked on end-to-end testing of **MPLS traffic engineering and resiliency**
-- Used automated scripts and hardware testbeds to simulate real-world network conditions
-- Diagnosed DUT failures and collaborated with developers to improve reliability
 
 ### 🔹 Elections Canada — Software Developer Intern
-- Built dynamic interactive forms using **TypeScript, HTML, CSS**, and **Microsoft Power Apps Component Framework**
-- Improved application stability with custom JavaScript error handling
-
----
-
-## 🧠 Featured Project
-
-### AI Portfolio Risk Interpretation Platform
-A full-stack explainable risk platform built with **React, TypeScript, Flask, Python, yfinance, and scikit-learn**.
-
-#### Features
-- Portfolio volatility analysis
-- Max drawdown and Sharpe ratio insights
-- Correlation and HHI-based concentration scoring
-- **PCA + KMeans clustering** for deeper diversification analysis
-- AI-generated plain-language insight cards
-- What-if portfolio comparison tool
-- Real-time news alerts using **Finnhub API**
-
-This project reflects a big part of what I enjoy most: combining **finance, machine learning, software engineering, and user-focused product thinking**.
 
 ---
 
