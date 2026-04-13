@@ -1,51 +1,67 @@
 <h1 align="center">Hey, I'm Henry Saber 👋</h1>
-<h3 align="center">Software Engineering @ uOttawa | Building AI, Automation, and Full-Stack Systems</h3>
+<h3 align="center">Software Engineering Student @ uOttawa | AI, Automation, Full-Stack, and Systems</h3>
 
 <p align="center">
-  <a href="mailto:henry.saber026@gmail.com"><img src="https://img.shields.io/badge/Email-henry.saber026%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/henrysaber"><img src="https://img.shields.io/badge/LinkedIn-Henry%20Saber-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://henrysaber.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:henry.saber026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-henry.saber026%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/henrysaber">
+    <img src="https://img.shields.io/badge/LinkedIn-Henry%20Saber-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://henrysaber.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Software Engineering student at the University of Ottawa** with internship experience across **Ciena, Solace, Nokia, and Elections Canada**.  
-I love building software that feels **useful, intelligent, and production-ready** — especially in:
+I'm a **Software Engineering student at the University of Ottawa** with internship experience across **Ciena, Solace, Nokia, and Elections Canada**. I enjoy building software that is practical, scalable, and impactful — especially across **AI**, **automation**, **full-stack development**, and **data-driven systems**.
 
-- 🤖 **AI-powered tools**
-- ⚙️ **Automation platforms**
-- 🌐 **Full-stack web apps**
-- 📊 **Data-driven systems**
-- 📡 **Networking and infrastructure**
-
-I’m especially interested in combining **software engineering + AI + real-world business value**.
+I’m also a strong advocate for **AI and LLMs**, and I genuinely love exploring how they can improve the way we build, learn, and solve problems. I’m especially passionate about promoting their use in ways that are **ethical, safe, responsible, and genuinely helpful to people**.
 
 ---
 
-## 💼 What I’ve Worked On
+## 💼 Experience Highlights
 
-### 🔹 AI Portfolio Risk Interpretation Platform
-Built a full-stack explainable risk platform using **React, TypeScript, Flask, Python, yfinance, and scikit-learn**.
+### 🔹 Ciena — Software Engineer Intern (QA)
+- Built a **Flask-based remote automation platform** for SSH-driven script execution on testbeds using **Paramiko**
+- Reduced upgrade validation time by **40%+**
+- Added dynamic form handling, real-time log streaming, router detection, package resolution, and multi-device orchestration
 
-It analyzes:
-- portfolio volatility
-- max drawdown
-- Sharpe ratio
-- concentration risk
-- true diversification using **PCA + KMeans**
+### 🔹 Solace — Software Engineer Intern
+- Automated a reporting pipeline using **Python, pandas, and openpyxl**
+- Generated structured Excel reports from REST APIs, saving **~3 hours/week**
+- Built a **Slack AI chatbot** using **Datadog API + OpenAI**
+- Contributed to TCL-based testing and Python 2 → Python 3 migration work
 
-It also includes:
-- AI-generated insight cards
-- what-if portfolio comparison
-- real-time news alerts and relevance scoring
+### 🔹 Nokia — Software Engineer Intern
+- Worked on end-to-end testing of **MPLS traffic engineering and resiliency**
+- Used automated scripts and hardware testbeds to simulate real-world network conditions
+- Diagnosed DUT failures and collaborated with developers to improve reliability
 
-### 🔹 Remote Automation Platform @ Ciena
-Built a Flask-based automation system for **SSH-driven script execution on testbeds** using **Paramiko**, cutting upgrade validation time by **40%+**.
+### 🔹 Elections Canada — Software Developer Intern
+- Built dynamic interactive forms using **TypeScript, HTML, CSS**, and **Microsoft Power Apps Component Framework**
+- Improved application stability with custom JavaScript error handling
 
-### 🔹 AI Slack Bot @ Solace
-Built an internal AI chatbot integrating **Datadog API + OpenAI** to dynamically retrieve and format operational data from user prompts.
+---
+
+## 🧠 Featured Project
+
+### AI Portfolio Risk Interpretation Platform
+A full-stack explainable risk platform built with **React, TypeScript, Flask, Python, yfinance, and scikit-learn**.
+
+#### Features
+- Portfolio volatility analysis
+- Max drawdown and Sharpe ratio insights
+- Correlation and HHI-based concentration scoring
+- **PCA + KMeans clustering** for deeper diversification analysis
+- AI-generated plain-language insight cards
+- What-if portfolio comparison tool
+- Real-time news alerts using **Finnhub API**
+
+This project reflects a big part of what I enjoy most: combining **finance, machine learning, software engineering, and user-focused product thinking**.
 
 ---
 
@@ -73,23 +89,24 @@ Built an internal AI chatbot integrating **Datadog API + OpenAI** to dynamically
 
 ---
 
-## 📈 Currently Focused On
+## 📚 Currently Focused On
 
-- Building smarter AI-powered applications
-- Sharpening full-stack engineering skills
-- Designing systems that are both technical and user-friendly
-- Exploring ML, automation, and applied software architecture
+- Building smarter **AI-powered applications**
+- Deepening my skills in **full-stack software engineering**
+- Creating systems that combine **technical depth with practical usability**
+- Exploring the future of **LLMs, automation, ML, and intelligent product design**
+- Advocating for the **safe, ethical, and responsible adoption of AI**
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Connect
 
-- Email: **henry.saber026@gmail.com**
-- LinkedIn: **linkedin.com/in/henrysaber**
-- Portfolio: **henrysaber.github.io**
+- 📫 **Email:** henry.saber026@gmail.com
+- 💼 **LinkedIn:** linkedin.com/in/henrysaber
+- 🌐 **Portfolio:** henrysaber.github.io
 
 ---
 
 ## ⚡ Fun Fact
 
-I like building projects that sit at the intersection of **engineering, intelligence, and real-world impact** — not just cool demos, but tools people would actually use.
+I’m especially drawn to projects where **AI, software, and real-world usefulness** come together — not just building things that look impressive, but building things that genuinely help people.
